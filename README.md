@@ -55,4 +55,10 @@ Run project
 npm run dev
 ```
 
+## Documentation
+
+<img width="300" src="https://github.com/danalvr/chatbot-openAI/assets/81479217/2267fae2-b299-40c5-a450-d20ab97a389a" alt="doc1" />
+<img width="600" src="https://github.com/danalvr/chatbot-openAI/assets/81479217/4c179913-d762-4c98-beaf-2b14f3253d7b" alt="doc2" />
+
 ## Demo
+<img src="https://github.com/danalvr/chatbot-openAI/assets/81479217/e3658c0f-ef66-4dc7-8e81-b36472478090" alt="demo1" />
