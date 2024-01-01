@@ -56,3 +56,5 @@ npm run dev
 ```
 
 ## Demo
+
+<img src="https://github.com/danalvr/chatbot-openAI/assets/81479217/190c85cb-8404-4b94-9907-a42a5b9b3590" alt="demo" />
